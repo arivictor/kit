@@ -1,5 +1,3 @@
-# kit.py
-
 <div align="center">
   <img src="docs/logo.png" alt="kit logo" width="150"/>
 </div>
