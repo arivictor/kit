@@ -3,7 +3,7 @@ import kit
 app = kit.New()
 
 class Hello:
-    def GET(self, request, name):
+    def GET(self, request: kit.Request, name: str):
         return kit.json_response({"message": f"Hello, {name}!"})
 
     def POST(self, request):
