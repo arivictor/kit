@@ -40,7 +40,7 @@ if __name__ == "__main__":
     app.run()
 ```
 
-## 📦 Installation
+### 📦 Installation
 
 ```shell
 pip install kit-py
